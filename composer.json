@@ -1,0 +1,10 @@
+{
+    "require": {
+        "illuminate/database": "^8.0",
+        "illuminate/events": "^8.0"
+    },
+
+    "scripts": {
+        "start": "php -S localhost:8000"
+    }
+}
